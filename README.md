@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Phoenix Client
-- 🌱 I’m currently learning C# and Java
+ 🔭 I’m currently working on Phoenix Client
+ 🌱 I’m currently learning C# and Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
